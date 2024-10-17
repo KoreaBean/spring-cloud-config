@@ -1,0 +1,6 @@
+token:
+  expiration_time: 86400000
+  secret_key: secretusersecretkey4839204894secret4859302secretKey39490320033sddsfdsfdslkfjdksaldkjdlwad
+
+gateway:
+  ip: 192.168.0.8
